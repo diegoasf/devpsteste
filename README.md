@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-Breve descrição do projeto e o que ele faz.
+Breve descrição do projeto e o que ele faz - legendários
 
 ## Funcionalidades
 
